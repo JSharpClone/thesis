@@ -10,8 +10,6 @@
 - **My settings**
 
   ```shell
-  source ~/anaconda3/bin/activate (python 3.6.5)
-	(base)  pip list
 	torch                              1.1.0
 	torchfile                          0.1.0
 	torchvision                        0.3.0
