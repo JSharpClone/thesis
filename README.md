@@ -62,6 +62,11 @@ https://drive.google.com/file/d/1-GM1TgHGCeIkRmQ4EoiLU3qXRIt8Cc2y/view?usp=shari
 python scripts/train_rpn_3d.py --config=config
 ```
 
+## Validation
+```shell
+./data/kitti_split1/devkit/cpp/evaluate_object /your/results/data
+```
+
 ## Testing
 ```shell
 python scripts/test.py --config=config
