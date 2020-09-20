@@ -74,7 +74,7 @@ python scripts/test.py --config=config
 
 ## Generate Synthetic Data
 ```shell
-python warp.py
+python warping.py
 ```
 
 ## Visualization
